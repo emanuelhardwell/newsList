@@ -1,0 +1,6 @@
+modulos:
+
+express
+ejs 
+mysql
+body-parser
